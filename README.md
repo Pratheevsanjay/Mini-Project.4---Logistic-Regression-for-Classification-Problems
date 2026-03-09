@@ -89,10 +89,6 @@ Scikit-Learn
 
 🚀 How to Run the Project
 
-Clone the repository:
-
-git clone https://github.com/yourusername/yourrepositoryname.git
-
 Install required libraries:
 
 pip install numpy pandas matplotlib seaborn scikit-learn
